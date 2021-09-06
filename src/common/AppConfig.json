@@ -1,0 +1,8 @@
+{
+  "PTApp": {
+    "url": "http://vps183618.vps.ovh.ca:5069" //http://cmos-dev.biznovare.com:5069"
+    //"url":"http://192.168.1.82:8069"  //archies's server
+    //"url":"http://192.168.1.54:8069"  // dhruva's server
+  },
+  "MainColor": "#27536c"
+}

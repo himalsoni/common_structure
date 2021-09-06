@@ -1,0 +1,70 @@
+/** @format */
+
+import LocalizedStrings from "react-native-localization";
+
+export default new LocalizedStrings({
+  en: {
+    InternetError:"Please check internet connection!",
+    Login:"Login",
+    mobilePlaceholder:"Enter Mobile",
+    pwdPlaceholder:"Enter Password",
+    enterMobileValidation:"Please enter mobile!",
+    enterPwdValidation:"Please enter password!",
+    ForgotPwd:"Unable to login?",
+    registerAsPatient:"Register as Patient",
+    registerAsPractitioner:"Register as Practitioner",
+    or:"or",
+    loginSuccess:"Login successfully done!",
+    loginError:"Error in login! Please try again.",
+    Register:"Register",
+    RegisterAs:"Register As ",
+    clinicNamePlaceholder:"Enter Clinic Name",
+    firstNamePlaceholder:"Enter First Name",
+    lastNamePlaceholder:"Enter Last Name",
+    emailPlaceholder:"Enter Email",
+    invitationCode:"Enter Invitation Code",
+
+    clinicValidation:"Please enter clinic name!",
+    firstNameValidation:"Please enter first name!",
+    lastNameValidation:"Please enter last name!",
+    emailValidation:"Please enter email!",
+    invitationCodeValidation:"Please enter Invitation Code!",
+    acceptTermsValidation:"Please accept Terms & Conditions And Privacy Policy!",
+    signupSuccess:"Signup successfully done!",
+    signupError:"Error in signup! Please try again.",
+
+    Continue:"Continue",
+    Accept:"By clicking continue you accept",
+    TermsCondition:"Terms and Conditions",
+    PrivacyPolicy:"Privacy Policy",
+    OTP:"OTP",
+    ResendOTP:"Resend OTP",
+    newPwdPlaceholder:"Enter new password",
+    confirmPwdPlaceholder:"Enter Confirm Password",
+    ForgotPwdTitle:"Forgot Password",
+    newPwdValidation:"Please enter new password!",
+    confirmPwdValidation:"Please enter confirm password",
+    newConfirmPwdNotMatch:"New password and confirm password does not match!",
+    tokenExpired:"Verification token is expired!",
+    pwdSetSuccess:"New password updated successfully!",
+    setPWd:"Set Password",
+    and:"&",
+
+    AppVersion:"App Version",
+    V:"V",
+    Build:"Build",
+
+    Welcome:"Welcome",
+    YourDailyExercise:"Your daily exercise",
+
+    ShowMore:"See More",
+    ShowLess:"Show Less",
+
+    DoctorId:"Doctor ID",
+    ClinicId:"Clinic ID",
+    MyProfile:"My Profile",
+    Users:"Users",
+    ChangePwd:"Change Password",
+    Practitioner:"Practitioner",
+  },
+});
